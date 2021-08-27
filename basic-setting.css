@@ -22,4 +22,8 @@ li a {
 li a:hover {
     background-color: #111;
 } 
-footer div{margin:auto; width:110%;}
+footer div {
+    margin:auto;
+    width:110%;
+}
+.indexfooter {background-color="white"}
