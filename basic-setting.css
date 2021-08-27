@@ -22,7 +22,7 @@ li a {
 li a:hover {
     background-color: #111;
 } 
-footer div p{
+.copyright{
     text-align:center;
 }
 .indexfooter {background-color:white;}
