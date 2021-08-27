@@ -24,6 +24,6 @@ li a:hover {
 } 
 footer div {
     margin:auto;
-    width:30%;
+    width:100%;
 }
-.indexfooter {background-color="white"}
+.indexfooter {background-color:white;}
