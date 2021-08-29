@@ -25,4 +25,4 @@ li a:hover {
 .copyright{
     text-align:center;
 }
-.indexfooter {background-color:white;}
+.indexfooter {background-color:white;margin:auto;width:99%;}
