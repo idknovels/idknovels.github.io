@@ -24,5 +24,14 @@ li a:hover {
 } 
 .copyright{
     text-align:center;
+    background-color: white;
 }
-.indexfooter {background-color:white;margin:auto;width:99%;}
+.indexfooter {
+    background-color:white;
+}
+.social-media1 {
+    margin-left:45%;
+}
+.gmail {
+    text-align: center;
+}

@@ -1,0 +1,19 @@
+.newbook {
+    background-color: white;
+}
+.newbook-name {
+    text-align: center;
+}
+td a {
+    text-decoration: none;
+}
+.text {
+    background-color:#999;
+}
+.book {
+    background-color: white;
+}
+.newbook-img {
+    border-style: solid;
+    border-color: black;
+}
